@@ -2,8 +2,10 @@
     {
       "name": "Farhana Rahman",
       "id": 1,
-      "Chef_Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvmmCVa9sqisIR3V_2hIQ8r7nvf2nWUBz6sTVxb4E7YkZQ1-Y81sg37yB_9QkaJmV9_NY&usqp=CAU",
+      "Chef_Picture": "https://s3.envato.com/files/334062576/DSC07846.jpg",
       "rating": 4.5,
+      "num_of_recipes": 15,
+
       "years_of_experience": 10,
       "cooking_method": "Clean and marinate the fish. Heat oil in a pan and fry the fish. In the same oil, fry the onions and tomatoes. Add the spices and cook until the oil separates. Add water and let it boil. Add the fried fish and cook for a few more minutes. Serve hot with rice.",
 
@@ -26,8 +28,10 @@
    
     {
       "name": "Nadia Ahmed",
+      "num_of_recipes": 12,
+
       "id": 2,
-      "Chef_Picture": "https://tajdining.com/uploads/chefs/small/53_small_2022_07_26_03_37_47.jpg",
+      "Chef_Picture": "https://clubandresortchef.com/wp-content/uploads/2020/08/CECFeat770x500.jpg",
       "rating": 4.00,
       "years_of_experience": 8,
       "cooking_method": "Clean and cut the chicken into pieces. Heat oil in a pan and fry the chicken. In the same oil, fry the onions, ginger, and garlic. Add the spices and cook until the oil separates. Add water and let it boil. Cover and simmer until the chicken is cooked. Serve hot with rice.",
@@ -52,6 +56,8 @@
    
     {
       "name": "Abdul Khan",
+      "num_of_recipes": 16,
+
       "id": 3,
       "Chef_Picture": "https://media.istockphoto.com/id/465400717/photo/professional-chef.jpg?s=170667a&w=0&k=20&c=9zkZ6uh4NplD7KygJJI4GjFzbUllbZLQS3rZWQY21vE=",
       "rating": 4.2,
@@ -77,6 +83,8 @@
    
     {
       "name": "Rima Chowdhury",
+      "num_of_recipes": 9,
+
       "id": 4,
       "Chef_Picture": "https://lastheplace.com/images/article-images/2021/05/chef-life-1024x683.jpg",
       "rating": 4.3,
@@ -92,6 +100,8 @@
    
     {
       "name": "Karim Uddin",
+      "num_of_recipes": 19,
+
       "id": 5,
       "Chef_Picture": "https://advice.hosco.com/wp-content/uploads/2021/10/Untitled-design-29.png",
       "rating": 4.1,
@@ -117,6 +127,8 @@
     
     {
       "name": "Rahim Ahmed",
+      "num_of_recipes": 20,
+
       "id": 6,
       "Chef_Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95u1vIi0Wbd59TUAJqgJiVN-GYL0rnMWOHAZvbUaSkdb7ic-tdarKtQSa1AOAigzZ5mc&usqp=CAU",
       "rating": 4.7,
