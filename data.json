@@ -1,6 +1,7 @@
 [
     {
       "name": "Farhana Rahman",
+      "bio" : "Chef Farhana Rahman is a renowned Bangladeshi chef who has been working in the culinary industry for over 25 years. He is known for his fusion cuisine, which combines traditional Bangladeshi flavors with international techniques. Chef Uddin has won several awards for his innovative dishes, and currently runs his own restaurant in Dhaka.",
       "id": 1,
       "Chef_Picture": "https://s3.envato.com/files/334062576/DSC07846.jpg",
       "rating": 4.5,
@@ -28,6 +29,8 @@
    
     {
       "name": "Nadia Ahmed",
+      "bio" : "Chef Nadia Ahmed is a rising star in the Bangladeshi culinary scene, known for her focus on traditional Bengali cuisine. She has worked at several high-end restaurants in Dhaka, and has recently opened her own restaurant, which has been praised for its authentic dishes and use of local ingredients.",
+
       "num_of_recipes": 12,
 
       "id": 2,
@@ -56,6 +59,8 @@
    
     {
       "name": "Abdul Khan",
+      "bio" : "Chef Abdul Khan is a popular Bangladeshi chef and television personality, known for her cooking show, he has published several cookbooks, and is known for her simple, yet flavorful dishes that can be easily prepared at home.",
+
       "num_of_recipes": 16,
 
       "id": 3,
@@ -83,6 +88,8 @@
    
     {
       "name": "Rima Chowdhury",
+      "bio" : "Chef Rima Chowdhury is a Bangladeshi chef and restaurateur who has opened several successful restaurants in the United States, serving traditional Bengali cuisine. She is known for his use of fresh, locally sourced ingredients and his commitment to promoting Bangladeshi cuisine to a wider audience.",
+
       "num_of_recipes": 9,
 
       "id": 4,
@@ -95,12 +102,20 @@
         "Shrimp Curry",
         "Daal Mash",
         "Lemon Chicken"
+      ],
+      "ingredients": [
+        "500g prawns",
+        "1 onion, chopped",
+        "1 tbsp ginger paste",
+        "1 tbsp garlic paste",
+        "1 cup coconut milk"
       ]
     },
    
     {
       "name": "Karim Uddin",
       "num_of_recipes": 19,
+      "bio" : "Chef Karim Uddin is a respected Bangladeshi chef who has worked in some of the country's top hotels and restaurants. He is known for his expertise in Bangladeshi seafood dishes, and is considered a master of the 'Pani Puri' cooking technique, in which fish is cooked in banana leaves.",
 
       "id": 5,
       "Chef_Picture": "https://advice.hosco.com/wp-content/uploads/2021/10/Untitled-design-29.png",
@@ -127,6 +142,8 @@
     
     {
       "name": "Rahim Ahmed",
+      "bio" : "ChefRahim Ahmed is a Bangladeshi chef and cookbook author, known for her focus on healthy, plant-based cooking. She has published several cookbooks and hosts a cooking show that emphasizes the health benefits of Bangladeshi cuisine. Chef Rahim Ahmed is also an advocate for sustainable agriculture and works closely with local farmers to promote organic farming practices.",
+
       "num_of_recipes": 20,
 
       "id": 6,
